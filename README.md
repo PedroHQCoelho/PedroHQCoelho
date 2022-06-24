@@ -34,8 +34,6 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/PedroHQCoelho/PedroHQCoelho/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/PedroHQCoelho/PedroHQCoelho/blob/output/snake.svg" alt="Snake animation" />
 
 ###
