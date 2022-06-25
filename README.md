@@ -23,5 +23,5 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/PedroHQCoelho/PedroHQCoelho/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/PedroHQCoelho/PedroHQCoelho/blob/output/github-contribution-grid-snake.svg)
 
