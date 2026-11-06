@@ -50,17 +50,13 @@ I build responsive web applications and intuitive interfaces, with a focus on us
 </p>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PedroHQCoelho&bg_color=0b1220&color=94a3b8&line=3b82f6&point=60a5fa&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  <img width="95%" src="https://ghchart.rshah.org/3B82F6/PedroHQCoelho" alt="Pedro's GitHub contribution calendar" />
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHQCoelho/PedroHQCoelho/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHQCoelho/PedroHQCoelho/output/github-snake.svg" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/PedroHQCoelho/PedroHQCoelho/output/github-snake.svg" />
-  </picture>
+  <img width="95%" src="https://raw.githubusercontent.com/PedroHQCoelho/PedroHQCoelho/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
 </div>
 
 ---
