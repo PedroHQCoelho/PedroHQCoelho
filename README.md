@@ -38,6 +38,17 @@ I build responsive web applications and intuitive interfaces, with a focus on us
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
+## 🚀 Featured Projects
+
+A selection of projects I have built. Visit each live demo or explore its source code.
+
+| Project | What it does | Links |
+| --- | --- | --- |
+| **Minha Mangateca** | A personal manga library manager with volume tracking, a wishlist, backups and PDF reports. | [Live demo](https://minhamangateca.netlify.app/) · [Source code](https://github.com/PedroHQCoelho/minhamangateca) |
+| **Math Master** | An educational browser game with five maths mini-games, developed as my Computer Engineering graduation project. | [Live demo](https://mathmaster-game.netlify.app/) · [Source code](https://github.com/PedroHQCoelho/mathmaster) |
+| **Portfolio** | My personal website, featuring selected projects, professional experience and contact details. | [Live website](https://pedrohqcoelho.netlify.app/) · [Source code](https://github.com/PedroHQCoelho/pedrohqcoelho-portfolio) |
+| **Be The Hero** | A web application created during Rocketseat's OmniStack Week to connect people with NGO cases. | [Live demo](https://bethehero-pedro.netlify.app/) · [Source code](https://github.com/PedroHQCoelho/be-the-hero) |
+
 ## 📊 GitHub Overview
 
 <div align="center">
